@@ -1,10 +1,8 @@
 # kinutoufu.github.io
 
-## title
-- *test*
-- **test**
-- ~~test~~
-  - [test](aaaa)
+## link
+- [twitter](https://twitter.com/toufu0128)
+- [fanbox](https://t.co/OVhiYWJ0Va)
 
 ## title 2
 
